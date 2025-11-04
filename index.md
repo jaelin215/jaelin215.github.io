@@ -95,6 +95,14 @@ Beyond implementation, I help shape product and team direction — from scoping 
 - Drive progress via technical reviews, mentoring, and hands-on contributions
 - Bring clear communication and system-level thinking to help cross-functional teams stay aligned
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 1em;">
+  <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 600px; text-align: center; padding: 1em;">
+    <h4 style="margin-top: 0.8em; color: #155799;">GitHub - Code Review</h4>
+    <img src="img/pr_review.png" alt="deployment-edge" style="width: 100%;  border-radius: 8px;">
+    <p style="font-size: 0.8em;">Example PR (Pull Request) review summary I provided</p>
+  </div>
+</div>
+
 ---
 
 ## AI Governance & Risk Alignment
@@ -130,7 +138,7 @@ MLOps doesn’t end at deployment — I embed traceability, explainability, and 
 
 I’m energized by distilling complexity into clarity — through systems thinking, storytelling, and presentation. Whether I’m building AI infrastructure or shaping a narrative, I love turning scattered ideas into tools others can trust and use.
 
-You can reach me via [LinkedIn](https://www.linkedin.com/in/jaelin-lee-23678458/) or [YouTube](https://www.youtube.com/@withjaelinlee).
+You can reach me via [LinkedIn](https://www.linkedin.com/in/jaelin-lee-23678458/) or [YouTube](https://www.youtube.com/@withjaelinlee) for collaboration.
 
 <div class="hero-image">
   <img src="/img/who_am_i.png" alt="Jaelin Lee portrait">
