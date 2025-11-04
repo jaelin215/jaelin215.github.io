@@ -116,6 +116,14 @@ MLOps doesn’t end at deployment — I embed traceability, explainability, and 
   </div>
 </div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 1em;">
+  <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 600px; text-align: center; padding: 1em;">
+    <h4 style="margin-top: 0.8em; color: #155799;">AI Evaluation & Monitoring</h4>
+    <img src="img/monitor_weave.png" alt="monitor-weave" style="width: 100%;  border-radius: 8px;">
+    <p style="font-size: 0.8em;">W&B Weave (scoring, latency, human feedback, LLM judge)</p>
+  </div>
+</div>
+
 ---
 
 ## Let’s Connect
