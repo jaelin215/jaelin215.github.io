@@ -1,0 +1,14 @@
+# Jekyll config for the site
+title: "Jaelin Lee - MLOps Portfolio"
+description: "Production-grade machine laearning with system thinking and responsible deployment."
+url: "https://jaelin215.github.io"
+baseurl: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Markdown / kramdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
