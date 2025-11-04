@@ -69,7 +69,7 @@ Beyond implementation, I help shape product and team direction — from scoping 
 - Translate broad vision into actionable, time-bound deliverables
 - Facilitate alignment across ML, product, and data teams
 - Drive progress via technical reviews, mentoring, and hands-on contributions
-- Known for clear communication and system-level thinking, I help cross-functional teams stay aligned across ambiguity and scale.
+- Aim to bring clear communication and system-level thinking to help cross-functional teams stay aligned
 
 ---
 
