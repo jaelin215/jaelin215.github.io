@@ -13,6 +13,7 @@ Recent work includes:
 - Integrated retrieval-augmented agents (LangGraph) into a modular ML serving stack
 - Developed governance tooling: model cards, retraining triggers, and audit-ready versioning
 - Supported full-stack integration across frontend, backend, ML, and MLOps workflows
+
 ---
 
 ## AI Governance & Risk Alignment
@@ -21,9 +22,10 @@ MLOps doesn’t end at deployment — I embed traceability, explainability, and 
 
 **My MLOps Governance Toolkit:**
 - Model Card & Data Card templates
-- Drift diagnostics (KL Divergence, Jensen-Shannon)
+- Drift diagnostics
 - Retraining triggers + risk logging
 - Audit-ready model registries
+- Template to bring back drifted AI to alignment
 
 ---
 
