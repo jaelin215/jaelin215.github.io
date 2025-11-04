@@ -7,7 +7,7 @@ I help teams deploy models that are reliable, monitorable, and accountable.
 
 Design and deploy production-ready ML pipelines that integrate model inference, API services, data preprocessing, and agent-based reasoning — all under real-world constraints like latency, cost, compliance, and scale.
 
-Recent work includes:
+**Recent work includes:**
 
 - Architected a cloud-optimized inference pipeline for satellite image segmentation and time-series forecasting
 - Integrated retrieval-augmented agents (LangGraph) into a modular ML serving stack
