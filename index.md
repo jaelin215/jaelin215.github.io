@@ -75,8 +75,9 @@ MLOps doesn’t end at deployment — I embed traceability, explainability, and 
 
 ## Let’s Connect
 
-I’m looking to grow with teams that value clarity, autonomy, and purpose-driven AI development.  
-You can reach me via [LinkedIn](https://www.linkedin.com/in/jaelin-lee-23678458/).
+I’m energized by distilling complexity into clarity — through systems thinking, storytelling, and presentation. Whether I’m building AI infrastructure or shaping a narrative, I love turning scattered ideas into tools others can trust and use.
+
+You can reach me via [LinkedIn](https://www.linkedin.com/in/jaelin-lee-23678458/) or [YouTube](https://www.youtube.com/@withjaelinlee).
 
 <div class="hero-image">
   <img src="/img/who_am_i.png" alt="Jaelin Lee portrait">
