@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jaelin — MLOps Engineer
+## 👋 Hi, I’m Jaelin — MLOps Engineer
 
 I align machine learning systems with real-world constraints — technical, operational, and ethical.  
 I help teams deploy models that are reliable, monitorable, and accountable.
