@@ -56,7 +56,8 @@ Design and deploy production-ready ML pipelines that integrate model inference, 
 - Architected cloud-optimized inference pipelines for diverse ML tasks including computer vision, time-series, structured, and unstructured data  
 - Integrated LLMs, RAG pipelines, and LangGraph agents into a modular ML serving stack powering chatbot, search, and workflow automation tools  
 - Developed governance tooling: model cards, retraining triggers, and audit-ready versioning
-- Supported full-stack integration across frontend, backend, ML, data engineering, and MLOps workflows  
+- Supported full-stack integration across frontend, backend, ML, data engineering, and MLOps workflows
+- Thrives in fast-paced R&D cycles, translating ML ideas into end-to-end prototypes with real-world impact
 
 ---
 
