@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Jaelin Lee - MLOps Engineer & AI Consultant"
+description: "Aligning AI systems with real-world constraints - technical, operational, and ethical."
+image: /img/who_am_i.png
+---
+
+
 **As an MLOps Engineer**, I align machine learning systems with real-world constraints — technical, operational, and ethical — to deploy models that are reliable, monitorable, and accountable, from architecture to delivery.
 
 **As a Technical PM and AI Consultant**, I bridge strategy and execution — helping teams align, scope priorities, and translate vision into shipped ML systems.
