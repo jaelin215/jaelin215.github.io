@@ -12,3 +12,9 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
+
+# Permalinks, excluding files, etc.
+permalink: /:categories/:title/
+exclude:
+  - Gemfile
+  - Gemfile.lock
