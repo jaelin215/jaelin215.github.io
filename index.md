@@ -1,5 +1,6 @@
-I align machine learning systems with real-world constraints — technical, operational, and ethical.  
-I help teams deploy models that are reliable, monitorable, and accountable.
+**Bridging strategy and execution**, I help teams align, scope priorities, and translate vision into shipped ML systems.
+
+From architecture to delivery, I align machine learning systems with real-world constraints — technical, operational, and ethical — **to deploy models that are reliable, monitorable, and accountable**.
 
 
 <div class="card-row">
@@ -57,7 +58,18 @@ Design and deploy production-ready ML pipelines that integrate model inference, 
 - Integrated LLMs, RAG pipelines, and LangGraph agents into a modular ML serving stack powering chatbot, search, and workflow automation tools  
 - Developed governance tooling: model cards, retraining triggers, and audit-ready versioning
 - Supported full-stack integration across frontend, backend, ML, data engineering, and MLOps workflows
-- Thrives in fast-paced R&D cycles, translating ML ideas into end-to-end prototypes with real-world impact
+- Thrived in fast-paced R&D cycles, translating ML ideas into end-to-end prototypes with real-world impact
+
+---
+
+## Leadership & Technical Strategy
+
+Beyond implementation, I help shape product and team direction — from scoping and trade-offs to alignment and iteration.
+
+- Translate broad vision into actionable, time-bound deliverables
+- Facilitate alignment across ML, product, and data teams
+- Drive progress via technical reviews, mentoring, and hands-on contributions
+- Known for clear communication and system-level thinking, I help cross-functional teams stay aligned across ambiguity and scale.
 
 ---
 
