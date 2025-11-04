@@ -4,9 +4,9 @@ description: "Production-grade machine laearning with system thinking and respon
 url: "https://jaelin215.github.io"
 baseurl: ""
 
-theme: minima
+remote_theme: pages-themes/merlot@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Markdown / kramdown settings
 markdown: kramdown
