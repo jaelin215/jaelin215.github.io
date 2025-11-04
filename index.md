@@ -47,6 +47,7 @@
 <br>
 
 ---
+
 ## ML Architecture & Orchestration
 
 Design and deploy production-ready ML pipelines that integrate model inference, API services, data preprocessing, and agent-based reasoning — all under real-world constraints like latency, cost, compliance, and scale.
@@ -59,6 +60,30 @@ Design and deploy production-ready ML pipelines that integrate model inference, 
 - Supported full-stack integration across frontend, backend, ML, data engineering, and MLOps workflows
 - Thrived in fast-paced R&D cycles, translating ML ideas into end-to-end prototypes with real-world impact
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 1em;">
+  <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 600px; text-align: center; padding: 1em;">
+<h4 style="margin-top: 0.6em; color: #155799;">GCP Deployed - OCR Web App</h4>
+    <img src="img/deployment_gcp.png" alt="deployment-gcp" style="width: 100%;  border-radius: 8px;">
+    <p style="font-size: 0.8em;">GCP, Firebase, Flask, Docker, gunicorn, W&B</p>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 1em;">
+  <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 600px; text-align: center; padding: 1em;">
+    <h4 style="margin-top: 0.8em; color: #155799;">AWS Deployed - RAG/LLM Web App </h4>
+    <img src="img/deployment_aws_snowflake_azure.png" alt="deployment-aws-snowflake-azure" style="width: 100%;  border-radius: 8px;">
+    <p style="font-size: 0.8em;">AWS, AzureOpenAI, Snowflake, SQL, FastAPI, Docker, W&B Weave, Qdrant</p>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 1em;">
+  <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 600px; text-align: center; padding: 1em;">
+    <h4 style="margin-top: 0.8em; color: #155799;">Edge (iOS) Deployed - Computer Vision Mobile App</h4>
+    <img src="img/deployment_edge.jpeg" alt="deployment-edge" style="width: 100%;  border-radius: 8px;">
+    <p style="font-size: 0.8em;">SwiftUI, CoreML, TFLite</p>
+  </div>
+</div>
+
 ---
 
 ## Leadership & Technical Strategy
@@ -68,7 +93,7 @@ Beyond implementation, I help shape product and team direction — from scoping 
 - Translate broad vision into actionable, time-bound deliverables
 - Facilitate alignment across ML, product, and data teams
 - Drive progress via technical reviews, mentoring, and hands-on contributions
-- Aim to bring clear communication and system-level thinking to help cross-functional teams stay aligned
+- Bring clear communication and system-level thinking to help cross-functional teams stay aligned
 
 ---
 
@@ -82,6 +107,14 @@ MLOps doesn’t end at deployment — I embed traceability, explainability, and 
 - Retraining triggers + risk logging
 - Audit-ready, versioned model registries (e.g. MLflow, W&B)
 - Template to bring back drifted AI to alignment
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 1em;">
+  <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 600px; text-align: center; padding: 1em;">
+    <h4 style="margin-top: 0.8em; color: #155799;">AI Governance</h4>
+    <img src="img/ai_alignment.png" alt="ai-alignment" style="width: 100%;  border-radius: 8px;">
+    <p style="font-size: 0.8em;">Template for AI Alignment</p>
+  </div>
+</div>
 
 ---
 
