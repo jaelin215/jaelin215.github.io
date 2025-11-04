@@ -1,12 +1,12 @@
 # Jekyll config for the site
 title: "Jaelin Lee - MLOps Englineer | AI Consultant"
-description: "Production-grade machine laearning with system thinking and responsible deployment."
+description: "Production-grade machine learning with system thinking and responsible deployment."
 url: "https://jaelin215.github.io"
 baseurl: ""
 
-remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme 
 
 # Markdown / kramdown settings
 markdown: kramdown
