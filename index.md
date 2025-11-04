@@ -88,7 +88,7 @@ Design and deploy production-ready ML pipelines that integrate model inference, 
 
 ## Leadership & Technical Strategy
 
-Beyond implementation, I help shape product and team direction — from scoping and trade-offs to alignment and iteration.
+Beyond implementation, I shape product and team direction — from scoping and trade-offs to keeping execution aligned.
 
 - Translate broad vision into actionable, time-bound deliverables
 - Facilitate alignment across ML, product, and data teams
@@ -97,26 +97,26 @@ Beyond implementation, I help shape product and team direction — from scoping 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 1em;">
 
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 1em;">
-    <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 40%; text-align: center; padding: 1em;">
-      <h4 style="margin-top: 0.8em; color: #155799;">GitHub - Code Review</h4>
-      <img src="img/pr_review.png" alt="deployment-edge" style="width: 100%;  border-radius: 8px;">
-      <p style="font-size: 0.8em;">Example PR (Pull Request) review summary I provided</p>
-    </div>
+  <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 40%; text-align: center; padding: 1em;">
+    <h4 style="margin-top: 0.8em; color: #155799;">GitHub - Code Review</h4>
+    <img src="img/pr_review.png" alt="deployment-edge" style="width:100%; border-radius:8px;">
+
+    <p style="font-size: 0.8em;">Example pull request review summary I provided</p>
   </div>
+
 
   <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 40%; text-align: center; padding: 1em;">
     <div style="position: relative;">
-      <h4 style="margin-top: 0.8em; color: #155799;">GitHub - PR Sumitted</h4>
+      <h4 style="margin-top: 0.8em; color: #155799;">GitHub - PR Submitted</h4>
       <img id="pr-submitted" src="img/pr_submitted_1.png" style="width: 100%;border-radius: 8px;">
-      <button onclick="nextImage('pr-submitted', ['img/pr_submitted_1.png', 'img/pr_submitted_2.png', 'img/pr_submitted_3.png', 'img/pr_submitted_4.png', 'img/pr_submitted_5.png'])"
+      <button onclick="nextImage('pr-submitted', ['img/pr_submitted_1.png', 'img/pr_submitted_2.png', 'img/pr_submitted_3.png', 'img/pr_submitted_4.png'])"
               style="position: absolute; top: 0%; right: 10px; transform: translateY(-25%);
                     background: rgba(255,255,255,0.8); border: none; border-radius: 50%; padding: 6px 10px;
                     cursor: pointer; font-size: 1.2em;">
         →
       </button>
     </div>
-      <p style="font-size: 0.8em;">Example PR (Pull Request) I created</p>
+      <p style="font-size: 0.8em;">Example pull request I submitted</p>
   </div>
 </div>
 
@@ -231,6 +231,26 @@ You can reach me via [LinkedIn](https://www.linkedin.com/in/jaelin-lee-23678458/
     imageIndex[id] = (imageIndex[id] + 1) % images.length;
     document.getElementById(id).src = images[imageIndex[id]];
   }
+</script>
+
+<div id="lightbox" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.8); justify-content:center; align-items:center; z-index:9999;">
+  <img id="lightbox-image" src="" alt="" style="max-width:90%; max-height:90%; border-radius:12px;">
+</div>
+
+<script>
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImg = document.getElementById('lightbox-image');
+
+  function openLightbox(src, alt) {
+    lightboxImg.src = src;
+    lightboxImg.alt = alt || '';
+    lightbox.style.display = 'flex';
+  }
+
+  lightbox.addEventListener('click', () => {
+    lightbox.style.display = 'none';
+    lightboxImg.src = '';
+  });
 </script>
 
 ---
