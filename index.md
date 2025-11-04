@@ -1,7 +1,6 @@
-**Bridging strategy and execution**, I help teams align, scope priorities, and translate vision into shipped ML systems.
+As MLOps Engineer, From architecture to delivery, I align machine learning systems with real-world constraints — technical, operational, and ethical — to **deploy models that are reliable, monitorable, and accountable**.
 
-From architecture to delivery, I align machine learning systems with real-world constraints — technical, operational, and ethical — **to deploy models that are reliable, monitorable, and accountable**.
-
+As Technical PM and AI Consultant, I **bridge strategy and execution**. Helping teams align, scope priorities, and translate vision into shipped ML systems.
 
 <div class="card-row">
   <div class="card">
