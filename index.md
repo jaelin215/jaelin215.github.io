@@ -96,10 +96,27 @@ Beyond implementation, I help shape product and team direction — from scoping 
 - Bring clear communication and system-level thinking to help cross-functional teams stay aligned
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 1em;">
-  <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 600px; text-align: center; padding: 1em;">
-    <h4 style="margin-top: 0.8em; color: #155799;">GitHub - Code Review</h4>
-    <img src="img/pr_review.png" alt="deployment-edge" style="width: 100%;  border-radius: 8px;">
-    <p style="font-size: 0.8em;">Example PR (Pull Request) review summary I provided</p>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 1em;">
+    <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 40%; text-align: center; padding: 1em;">
+      <h4 style="margin-top: 0.8em; color: #155799;">GitHub - Code Review</h4>
+      <img src="img/pr_review.png" alt="deployment-edge" style="width: 100%;  border-radius: 8px;">
+      <p style="font-size: 0.8em;">Example PR (Pull Request) review summary I provided</p>
+    </div>
+  </div>
+
+  <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 40%; text-align: center; padding: 1em;">
+    <div style="position: relative;">
+      <h4 style="margin-top: 0.8em; color: #155799;">GitHub - PR Sumitted</h4>
+      <img id="pr-submitted" src="img/pr_submitted_1.png" style="width: 100%;border-radius: 8px;">
+      <button onclick="nextImage('pr-submitted', ['img/pr_submitted_1.png', 'img/pr_submitted_2.png', 'img/pr_submitted_3.png', 'img/pr_submitted_4.png', 'img/pr_submitted_5.png'])"
+              style="position: absolute; top: 0%; right: 10px; transform: translateY(-25%);
+                    background: rgba(255,255,255,0.8); border: none; border-radius: 50%; padding: 6px 10px;
+                    cursor: pointer; font-size: 1.2em;">
+        →
+      </button>
+    </div>
+      <p style="font-size: 0.8em;">Example PR (Pull Request) I created</p>
   </div>
 </div>
 
