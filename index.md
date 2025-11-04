@@ -20,10 +20,11 @@ I help teams deploy models that are reliable, monitorable, and accountable.
 <style>
 .card-row {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   justify-content: center;
   gap: 1.5rem;
   margin-top: 2rem;
+
 }
 
 .card {
