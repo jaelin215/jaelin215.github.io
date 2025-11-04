@@ -96,4 +96,63 @@ You can reach me via [LinkedIn](https://www.linkedin.com/in/jaelin-lee-23678458/
   box-shadow: 0 12px 30px rgba(0,0,0,0.12);
 }
 </style>
+
+<h2>🎤 Public Speaking</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 1em;">
+
+  <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 380px; text-align: center; padding: 1em;">
+  <div style="position: relative;">
+    <img id="img-exploring-ai" src="img/exploring_ai.jpeg" style="width: 100%; height: 260px; object-fit: cover; border-radius: 8px;">
+    <button onclick="nextImage('img-exploring-ai', ['img/exploring_ai.jpeg', 'img/exploring_ai_2.jpeg', 'img/exploring_ai_3.jpeg'])"
+            style="position: absolute; top: 85%; right: 10px; transform: translateY(-50%);
+                   background: rgba(255,255,255,0.8); border: none; border-radius: 50%; padding: 6px 10px;
+                   cursor: pointer; font-size: 1.2em;">
+      →
+    </button>
+  </div>
+  <h4 style="margin-top: 0.8em;">ExploringAI, Canada</h4>
+    <p style="font-size: 0.9em;">Presented <AI Governance in Real Life: How to Choose AI Tools That Reflect Your Values>.</p>
+  </div>
+
+  <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 380px; text-align: center; padding: 1em;">
+    <img src="img/onaki_fablab.jpeg" alt="Speaking at Onaki FabLab" style="width: 100%; height: 260px; object-fit: cover; border-radius: 8px;">
+    <h4 style="margin-top: 0.8em;">Onaki FabLab, Canada</h4>
+    <p style="font-size: 0.9em;">Motivational speech: Active learning skills workshop for indigenous tech talents.</p>
+  </div>
+
+
+  <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 380px; text-align: center; padding: 1em;">
+  <div style="position: relative;">
+    <img id="datalab-analytics" src="img/datalab_analytics.png" style="width: 100%;border-radius: 8px;">
+    <button onclick="nextImage('datalab-analytics', ['img/datalab_analytics.png', 'img/datalab_analytics_2.png'])"
+            style="position: absolute; top: 85%; right: 10px; transform: translateY(-50%);
+                   background: rgba(255,255,255,0.8); border: none; border-radius: 50%; padding: 6px 10px;
+                   cursor: pointer; font-size: 1.2em;">
+      →
+    </button>
+  </div>
+  <h4 style="margin-top: 0.8em;">DataLab Analytics, Africa</h4>
+    <p style="font-size: 0.9em;">Motivational speech: Learning skills & fulfilling career insights for aspiring data professionals.</p>
+  </div>
+
+ <div style="background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 380px; text-align: center; padding: 1em;">
+    <img src="img/uottawa_alumni.jpeg" alt="Asking questions at personal branding workshop" style="width: 100%; height: 260px; object-fit: cover; border-radius: 8px;">
+  <h4 style="margin-top: 0.8em;">Inspired to Speak: A Turning Point</h4>
+    <p style="font-size: 0.6em; line-height:1.4;">At a Public Speaking & Personal Branding workshop, I asked guest speaker Jesse Jones: "Sometimes when I find something insightful, I am not sure whether it will be insightful to others as well or not. So, I hesitate and end up not sharing... How do you handle these situations?" He replied: "Keep sharing. Even if your message impacted only one person. But, it changed their life. Does it matter? Ask your self - When will I be comfortable with the way I do things?". That moment reshaped how I approach storytelling. Since then, my sharing journey has continued.</p>
+  </div>
+
+</div>
+
+
+<script>
+  const imageIndex = {};
+
+  function nextImage(id, images) {
+    if (!imageIndex[id]) imageIndex[id] = 0;
+    imageIndex[id] = (imageIndex[id] + 1) % images.length;
+    document.getElementById(id).src = images[imageIndex[id]];
+  }
+</script>
+
 ---
