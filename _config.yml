@@ -1,6 +1,6 @@
 # Jekyll config for the site
 title: "Jaelin Lee - MLOps Engineer | AI Product & Governance Strategist"
-description: "Production-grade machine learning with system thinking and responsible deployment."
+description: "Production-grade data engineering and machine learning with system thinking and responsible deployment."
 url: "https://jaelin215.github.io"
 baseurl: ""
 image: /img/who_am_i.png
