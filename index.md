@@ -6,7 +6,7 @@ image: /img/who_am_i.png
 ---
 
 
-**As an MLOps Engineer**, I align machine learning systems with real-world constraints — technical, operational, and ethical — to deploy models that are reliable, monitorable, and accountable, from architecture to delivery.
+**As an MLOps Engineer**, I align machine learning systems with real-world constraints — technical, operational, and ethical — to design data engineering pipelines & deploy models that are reliable, monitorable, and accountable, from architecture to delivery.
 
 **As a Technical PM and AI Consultant**, I bridge strategy and execution — helping teams align, scope priorities, and translate vision into shipped ML systems.
 
@@ -58,11 +58,12 @@ image: /img/who_am_i.png
 
 ## ML Architecture & Orchestration
 
-Design and deploy production-ready ML pipelines that integrate model inference, API services, data preprocessing, and agent-based reasoning — all under real-world constraints like latency, cost, compliance, and scale.
+Design and deploy production-ready ML pipelines that integrate model inference, API services, data collection, data preprocessing, and agent-based reasoning — all under real-world constraints like latency, cost, compliance, and scale.
 
 **Recent work includes:**
 
-- Architected cloud-optimized inference pipelines for diverse ML tasks including computer vision, time-series, structured, and unstructured data  
+- Architected cloud-optimized inference pipelines end-to-end for diverse ML tasks including computer vision, time-series, structured, and unstructured data
+- Desgined reproducible data collection, preprocessing, serving ETL/ELT pipelines
 - Integrated LLMs, RAG pipelines, and LangGraph agents into a modular ML serving stack powering chatbot, search, and workflow automation tools  
 - Developed governance tooling: model cards, retraining triggers, and audit-ready versioning
 - Supported full-stack integration across frontend, backend, ML, data engineering, and MLOps workflows
